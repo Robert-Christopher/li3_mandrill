@@ -1,5 +1,5 @@
 {
-    "name": "Robert-Christopher/li3_mandrill",
+    "name": "robert-christopher/li3_mandrill",
     "type": "library",
     "description": "Li3 wrapper for Mandrill",
     "keywords": ["email","mandrill","li3","lithium"],
