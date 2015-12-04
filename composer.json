@@ -1,0 +1,19 @@
+{
+    "name": "Robert-Christopher/li3_mandrill",
+    "type": "library",
+    "description": "Li3 wrapper for Mandrill",
+    "keywords": ["email","mandrill","li3","lithium"],
+    "homepage": "https://github.com/Robert-Christopher/li3_mandrill",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert Christopher",
+            "email": "antonyrobertchristopher@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "composer/installers": "*"
+    }
+} 
